@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "wangwangliang <2474665001@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wangwangliang/lll",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
